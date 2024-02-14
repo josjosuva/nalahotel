@@ -1,0 +1,413 @@
+body{
+    bottom: 0;
+}
+
+
+.jos1{
+    position: -webkit-sticky;
+    top: 0;
+    width: 100%;
+    background-color: aquamarine;
+    
+}
+.Le1{
+    width: 100px;
+    height: 80px;
+    border-radius: 40px;
+    position: relative;
+    top:5px;
+    left: 2px;
+    border: solid black;
+
+}
+a{
+   position: relative;
+   left: 250px;
+   bottom: 38px;
+   padding: 8px;
+   text-decoration: none;
+   color: black;
+   font-weight: bolder;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a:hover{
+   color: rgb(234, 32, 13);
+    border-radius: 10px;
+    text-decoration: underline rgb(0, 68, 255);
+}
+body{
+    margin: 0;
+}
+button{
+    margin-left: 440px;
+    width: 90px;
+    height: 30px;
+    position: relative;
+    bottom: 30px;
+    border-radius: 10px;
+
+}
+button:hover{
+    background-color: tomato;
+    cursor: pointer;
+}
+
+
+
+
+.bg1{
+width: 1300px;
+height: 400px;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    text-decoration: dotted;
+}
+.A1{
+    width: 380px;
+    height: 300px;
+    margin-left: 20px;
+}
+.A1:hover{
+    transition-duration: 3s;
+    transform: scale(1.1);
+    border-radius: 30px;
+    cursor: pointer;
+}
+   
+
+.B1{
+    width: 380px;
+    height: 300px;
+    margin-left: 25px;
+}
+.B1:hover{
+    transition-duration: 3s;
+    transform: scale(1.1);
+    border-radius: 30px;
+    cursor: pointer;
+
+}
+.C1{
+    width: 380px;
+    height: 300px;
+    margin-left: 30px;
+}
+.C1:hover{
+    transition-duration: 3s;
+    transform: scale(1.1);
+    border-radius: 30px;
+    cursor: pointer;
+
+}
+.D1{
+    width: 380px;
+    height: 300px;
+    margin-left: 20px;
+   position: relative;
+   top:30px
+}
+.D1:hover{
+    transition-duration: 3s;
+    transform: scale(1.1);
+    border-radius: 30px;
+    cursor: pointer;
+
+}
+.E1{
+    width: 380px;
+    height: 300px;
+    margin-left: 25px;
+    position: relative;
+   top:30px
+}
+.E1:hover{
+    transition-duration: 3s;
+    transform: scale(1.1);
+    border-radius: 30px;
+    cursor: pointer;
+
+}
+.F1{
+    width: 380px;
+    height: 300px;
+    margin-left: 30px;
+    position: relative;
+   top:30px
+}
+.F1:hover{
+    transition-duration: 3s;
+    transform: scale(1.1);
+    border-radius: 30px;
+    cursor: pointer;
+}
+.G1{
+    width: 380px;
+    height: 300px;
+    margin-left: 20px;
+   position: relative;
+   top:60px
+}
+.G1:hover{
+    transition-duration: 3s;
+    transform: scale(1.1);
+    border-radius: 30px;
+    cursor: pointer;
+
+   
+}
+.H1{
+    width: 380px;
+    height: 300px;
+    margin-left: 25px;
+    position: relative;
+   top:60px
+}
+.H1:hover{
+    transition-duration: 3s;
+    transform: scale(1.1);
+    border-radius: 30px;
+    cursor: pointer;
+
+}
+.I1{
+    width: 380px;
+    height: 300px;
+    margin-left: 30px;
+    position: relative;
+   top:60px
+}
+.I1:hover{
+    transition-duration: 3s;
+    transform: scale(1.1);
+    border-radius: 30px;
+    cursor: pointer;
+
+   
+}
+.J1{
+    width: 380px;
+    height: 300px;
+    margin-left: 20px;
+   position: relative;
+   top:90px
+}
+.J1:hover{
+    transition-duration: 3s;
+    transform: scale(1.1);
+    border-radius: 30px;
+    cursor: pointer;
+
+   
+}
+.K1{
+    width: 380px;
+    height: 300px;
+    margin-left: 25px;
+    position: relative;
+   top:90px
+}
+.K1:hover{
+    transition-duration: 3s;
+    transform: scale(1.1);
+    border-radius: 30px;
+    cursor: pointer;
+}
+.L1{
+    width: 380px;
+    height: 300px;
+    margin-left: 30px;
+    position: relative;
+   top:90px
+}
+.L1:hover{
+    transition-duration: 3s;
+    transform: scale(1.1);
+    border-radius: 30px;
+    cursor: pointer;
+
+   
+}
+.M1{
+    width: 380px;
+    height: 300px;
+    margin-left: 20px;
+   position: relative;
+   top:120px
+}
+.M1:hover{
+    transition-duration: 3s;
+    transform: scale(1.1);
+    border-radius: 30px;
+    cursor: pointer;
+   
+}
+.N1{
+    width: 380px;
+    height: 300px;
+    margin-left: 25px;
+    position: relative;
+   top:120px
+}
+.N1:hover{
+    transition-duration: 3s;
+    transform: scale(1.1);
+    border-radius: 30px;
+    cursor: pointer;
+
+}
+.O1{
+    width: 380px;
+    height: 300px;
+    margin-left: 30px;
+    position: relative;
+   top:120px
+}
+.O1:hover{
+    transition-duration: 3s;
+    transform: scale(1.1);
+    border-radius: 30px;
+    cursor: pointer;
+
+   
+}
+.P1{
+    width: 380px;
+    height: 300px;
+    margin-left: 20px;
+   position: relative;
+   top:150px
+}
+.P1:hover{
+    transition-duration: 3s;
+    transform: scale(1.1);
+    border-radius: 30px;
+    cursor: pointer;
+}
+.Q1{
+    width: 380px;
+    height: 300px;
+    margin-left: 25px;
+    position: relative;
+   top:150px
+}
+.Q1:hover{
+    transition-duration: 3s;
+    transform: scale(1.1);
+    border-radius: 30px;
+    cursor: pointer;
+}
+.R1{
+    width: 380px;
+    height: 300px;
+    margin-left: 30px;
+    position: relative;
+   top:150px
+}
+.R1:hover{
+    transition-duration: 3s;
+    transform: scale(1.1);
+    border-radius: 30px;
+    cursor: pointer;
+   
+}
+.S1{
+    width: 380px;
+    height: 300px;
+    margin-left: 20px;
+   position: relative;
+   top:180px
+}
+.S1:hover{
+    transition-duration: 3s;
+    transform: scale(1.1);
+    border-radius: 30px;
+    cursor: pointer;
+
+   
+}
+.T1{
+    width: 380px;
+    height: 300px;
+    margin-left: 25px;
+    position: relative;
+   top:180px
+}
+.T1:hover{
+    transition-duration: 3s;
+    transform: scale(1.1);
+    border-radius: 30px;
+    cursor: pointer;
+}
+.U1{
+    width: 380px;
+    height: 300px;
+    margin-left: 30px;
+    position: relative;
+   top:180px
+}
+.U1:hover{
+    transition-duration: 3s;
+    transform: scale(1.1);
+    border-radius: 30px;
+    cursor: pointer;
+}
+.V1{
+    width: 380px;
+    height: 300px;
+    margin-left: 20px;
+   position: relative;
+   top:210px
+}
+.V1:hover{
+    transition-duration: 3s;
+    transform: scale(1.1);
+    border-radius: 30px;
+    cursor: pointer;
+
+   
+}
+.W1{
+    width: 380px;
+    height: 300px;
+    margin-left: 25px;
+    position: relative;
+   top:210px
+}
+.W1:hover{
+    transition-duration: 3s;
+    transform: scale(1.1);
+    border-radius: 30px;
+    cursor: pointer;
+}
+.X1{
+    width: 380px;
+    height: 300px;
+    margin-left: 30px;
+    position: relative;
+   top:210px
+}
+.X1:hover{
+   
+    transition-duration: 3s;
+    transform: scale(1.1);
+    border-radius: 30px;
+    cursor: pointer;
+
+}
+.book button{
+    margin-left: 440px;
+    width: 90px;
+    height: 30px;
+    position: relative;
+    left: 430px;
+    bottom: 20px;
+    border-radius: 10px;
+
+}
+.book button:hover{
+    background-color: tomato;
+    cursor: pointer;
+}

@@ -1,0 +1,147 @@
+.jos1{
+    width: 100%;
+    background-color: aquamarine;
+}
+.L1{
+    width: 90px;
+    height: 70px;
+    border-radius: 40px;
+    position: relative;
+    top:5px;
+    left: 2px;
+    border: solid black;
+
+}
+a{
+   position: relative;
+   left: 250px;
+   bottom: 20px;
+   padding: 8px;
+   text-decoration: none;
+   color: black;
+   font-weight: bolder;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a:hover{
+   color: rgb(234, 32, 13);
+    border-radius: 10px;
+    text-decoration: underline rgb(0, 68, 255);
+}
+body{
+    margin: 0;
+}
+.g1{
+    margin-left: 1090px;
+    border-radius: 20px;
+    height: 50px;
+    width: 150px;
+    border: 30px;
+    position: relative;
+    bottom: 100px;
+    box-shadow: 10px;
+    background-color: coral;
+
+}
+.g1:hover{
+     background-color: chartreuse;
+    cursor: pointer;
+}
+
+
+.A1{
+    width: 1260px;
+    height: 400px;
+    }
+    input[type=text]{
+        width: 500px;
+        height: 50px;
+        border-radius: 30px;
+    }
+    input[type=date]{
+        position: relative;
+        right: 120px;
+    }
+    .B1{
+        position: relative;
+        left: 550px;
+        bottom: 55px;
+    }
+   h2{
+    font-size: 50px;
+   margin-left: 400px;
+   }
+    
+    .R1{
+         width: 280;
+        height: 250px;
+        margin-left: 30px;
+       border-radius: 10px;
+       border: black 30px;
+    }
+    .R1:hover{
+        transition-duration: 5s;
+        transform: scale(1.1);
+        cursor: pointer;
+    }
+   h3{
+    font-size: 35px;
+    margin-left: 50px;
+    position: relative;
+    bottom: 22px;
+   }
+   .R2{
+   width: 380px;
+   height: 250px;
+   margin-left: 450px;
+   border-radius: 10px;
+   border: black 30px;
+   position: relative;
+   bottom: 360px;
+}
+  .R2:hover{
+   transition-duration: 5s;
+   transform: scale(1.1);
+   cursor: pointer;
+}
+h4{
+    font-size: 35px;
+    margin-left: 500px;
+    position: relative;
+    bottom: 400px;
+}
+.R3{
+    width: 370px;
+    height: 260px;
+    margin-left: 860px;
+    border-radius: 10px;
+    border: black 30px;
+    position: relative;
+    bottom: 750px;
+ }
+
+ .R3:hover{
+    transition-duration: 5s;
+    transform: scale(1.1);
+    cursor: pointer;
+ }
+ h5{
+    font-size: 35px;
+    margin-left: 950px;
+    position: relative;
+    bottom: 800px;
+}
+.book button{
+    margin-left: 440px;
+    width: 90px;
+    height: 30px;
+    position: relative;
+    left: 430px;
+    bottom: 20px;
+    border-radius: 10px;
+
+}
+.book button:hover{
+    background-color: tomato;
+    cursor: pointer;
+
+}

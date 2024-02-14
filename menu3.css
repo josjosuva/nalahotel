@@ -1,0 +1,246 @@
+.jos1{
+    width: 100%;
+    background-color: aquamarine;
+   
+}
+.jos1 .L1{
+    width: 100px;
+    height: 80px;
+    border-radius: 40px;
+    position: relative;
+    top:5px;
+    left: 2px;
+    border: solid black;
+
+}
+a{
+   position: relative;
+   left: 250px;
+  bottom: 35px;
+   padding: 8px;
+   text-decoration: none;
+   color: black;
+   font-weight: bolder;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a:hover{
+   color: rgb(234, 32, 13);
+    border-radius: 10px;
+    text-decoration: underline rgb(0, 68, 255);
+}
+body{
+    margin: 0;
+}
+body{
+    margin: 0;
+}
+.book button{
+    margin-left: 440px;
+    width: 90px;
+    height: 30px;
+    position: relative;
+    left: 430px;
+    bottom: 20px;
+    border-radius: 10px;
+
+}
+.book button:hover{
+    background-color: tomato;
+    cursor: pointer;
+}
+
+h1{
+    font-size: 30px;
+ 
+    width: 300px;
+    padding: 10px;
+    margin-left: 400px;
+    border-radius: 40px;
+    padding-left: 90px;  
+}
+h1{
+    
+    cursor: pointer;
+}
+
+
+
+.A1{
+    width: 280px;
+    height: 210px;
+    border-radius: 10px;
+    border: solid black;
+    margin-left: 10px;
+}
+.A1:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+.B1{
+    width: 280px;
+    height: 210px;
+    border-radius: 10px;
+    margin-left: 20px;
+    border: solid black;
+}
+.B1:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+.C1{
+    width: 280px;
+    height: 210px;
+    border-radius: 10px;
+    margin-left: 20px;
+    border: solid black;
+}
+.C1:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+.D1{
+    width: 280px;
+    height: 210px;
+    border-radius: 10px;
+    margin-left: 23px;
+    border: solid black;
+}
+.D1:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+h2{
+    font-size: 30px;
+  
+    width: 300px;
+    padding: 10px;
+    margin-left: 450px;
+    border-radius: 40px;
+    padding-left: 80px;  
+}
+h2{
+    
+    cursor: pointer;
+}
+
+.E1{
+    width: 280px;
+    height: 210px;
+    border-radius: 10px;
+    border: solid black;
+    margin-left: 10px;
+}
+.E1:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+.F1{
+    width: 280px;
+    height: 210px;
+    border-radius: 10px;
+    margin-left: 20px;
+    border: solid black;
+}
+.F1:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+.G1{
+    width: 280px;
+    height: 210px;
+    border-radius: 10px;
+    margin-left: 20px;
+    border: solid black;
+}
+.G1:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+.H1{
+    width: 280px;
+    height: 210px;
+    border-radius: 10px;
+    margin-left: 23px;
+    border: solid black;
+}
+.H1:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+h3{
+    font-size: 30px; 
+    width: 300px;
+    padding: 10px;
+    margin-left: 450px;
+    border-radius: 40px;
+    padding-left: 80px;  
+}
+h3{
+    
+    cursor: pointer;
+}
+
+.I1{
+    width: 280px;
+    height: 210px;
+    border-radius: 10px;
+    border: solid black;
+    margin-left: 10px;
+}
+.I1:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+.J1{
+    width: 280px;
+    height: 210px;
+    border-radius: 10px;
+    margin-left: 20px;
+    border: solid black;
+}
+.J1:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+.K1{
+    width: 280px;
+    height: 210px;
+    border-radius: 10px;
+    margin-left: 20px;
+    border: solid black;
+}
+.K1:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+.L1{
+    width: 280px;
+    height: 210px;
+    border-radius: 10px;
+    margin-left: 23px;
+    border: solid black;
+}
+.L1:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+.number a{ 
+    font-size: 30px;
+      position: relative;
+      left: 480px;
+      top: 60px;
+      color: black;
+      background-color: chartreuse;
+      margin: 10px;
+      padding: 10px;
+     border: 1px solid saddlebrown;
+      border-radius: 50%; 
+      text-decoration: none;
+    }
+    .number a:hover{
+          text-decoration: none;
+          background-color: coral;
+          cursor: pointer;
+    }
+    
